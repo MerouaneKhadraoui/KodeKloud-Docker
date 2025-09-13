@@ -1,4 +1,4 @@
-# Task 04: Docker EXEC Operations
+# Task 4: Docker EXEC Operations
 
 ## Question
 
