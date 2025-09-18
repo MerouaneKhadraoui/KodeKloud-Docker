@@ -53,7 +53,7 @@ sudo vi /opt/docker/docker-compose.yml
 
 ```bash
 cd /opt/docker
-sudo docker-compose up -d
+sudo docker compose up
 ```
 
 4. **Verify**
